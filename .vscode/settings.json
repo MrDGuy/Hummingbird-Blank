@@ -1,0 +1,33 @@
+{
+    "java.project.referencedLibraries": [
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/commons-lang-2.5.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/commons-lang3-3.3.2.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/hid4java.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/slf4j-nop-1.7.7.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/apache-log4j-extras-1.0.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-collections.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/swing-layout-1.0.4.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-serial.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/commons-collections-3.2.1.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-device.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/en_us.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/freetts.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/commons-io-2.4.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-user-interface.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-xml.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-speech.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-audio.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/terk-core.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/terk-services.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/cmulex.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/log4j-1.2.16.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/cmu_us_kal.jar",
+        "/Users/david.guy/Desktop/Visual Studio Code/HummingbirdJava/libs/create-lab-commons-util.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "terminal.integrated.profiles.osx": { "x86 bash": { "path": "/usr/bin/arch",
+"args": [ "-arch", "x86_64", "/bin/bash" ] } },
+"terminal.integrated.defaultProfile.osx": "x86 bash"
+}
